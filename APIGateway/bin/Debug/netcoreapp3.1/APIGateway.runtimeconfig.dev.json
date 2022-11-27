@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ranosys\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ranosys\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcaeeacd-e898-472e-b488-a879c6467395": {
+      "ProjectGuid": "fcaeeacd-e898-472e-b488-a879c6467395",
+      "DisplayName": "RabbitMQConnector",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
