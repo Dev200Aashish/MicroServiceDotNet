@@ -24,6 +24,7 @@ namespace CatalogService.Controllers
             try
             {
                 //This comment is added from master branch
+                // New commit from master
                 _irabitMQProducer.SendProductMessage(_icatalogService.FindAll());
                 return Ok(_icatalogService.FindAll());
             }
