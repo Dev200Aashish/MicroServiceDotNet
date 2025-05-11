@@ -23,6 +23,7 @@ namespace CatalogService.Controllers
         {
             try
             {
+                //This comment is added from master branch
                 _irabitMQProducer.SendProductMessage(_icatalogService.FindAll());
                 return Ok(_icatalogService.FindAll());
             }
