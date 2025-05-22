@@ -22,6 +22,7 @@ namespace CatalogService.Controllers
         public IActionResult Index()
         {
             try
+
             {
                 //This comment is added from master branch
                 // New commit from master
