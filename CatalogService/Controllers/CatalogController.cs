@@ -29,6 +29,7 @@ namespace CatalogService.Controllers
                 // added my other
                 // added by me
                 //new commit
+                //added for git extension
                 _irabitMQProducer.SendProductMessage(_icatalogService.FindAll());
                 return Ok(_icatalogService.FindAll());
             }
