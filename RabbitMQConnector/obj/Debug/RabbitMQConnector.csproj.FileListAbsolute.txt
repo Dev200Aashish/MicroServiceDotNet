@@ -43,3 +43,26 @@ C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\RabbitMQConnector\obj\D
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\RabbitMQConnector\obj\Debug\RabbitMQConnector.csproj.CopyComplete
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\RabbitMQConnector\obj\Debug\RabbitMQConnector.exe
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\RabbitMQConnector\obj\Debug\RabbitMQConnector.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\RabbitMQConnector.exe.config
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\RabbitMQConnector.exe
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\RabbitMQConnector.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\RabbitMQ.Client.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Buffers.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Memory.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Numerics.Vectors.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Threading.Channels.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\RabbitMQ.Client.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Buffers.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Memory.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Numerics.Vectors.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Threading.Channels.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.csproj.AssemblyReference.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.csproj.SuggestedBindingRedirects.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.csproj.CoreCompileInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.csproj.CopyComplete
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.exe
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\RabbitMQConnector\obj\Debug\RabbitMQConnector.pdb

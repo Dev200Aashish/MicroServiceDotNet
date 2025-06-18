@@ -148,11 +148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\CatalogService\\CatalogService.csproj",
+      "projectUniqueName": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\CatalogService\\CatalogService.csproj",
       "projectName": "CatalogService",
-      "projectPath": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\CatalogService\\CatalogService.csproj",
+      "projectPath": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\CatalogService\\CatalogService.csproj",
       "packagesPath": "C:\\Users\\AASHISH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\CatalogService\\obj\\",
+      "outputPath": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\CatalogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AASHISH\\AppData\\Roaming\\NuGet\\NuGet.Config",

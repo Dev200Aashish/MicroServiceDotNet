@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y88RhQGaWe9Ffe0Q/0JdB4CXGZ0UP+Tr5Be7LS0mhRb4MWdiRIXY3tP6/Adk04Katx2lKMEQr+bb0fxYEv0Pg==",
+  "dgSpecHash": "hNoL4n70EEHMsqeqv1HZJg0+OJa/yibtVRNb5dPwNgnMg6HQBPOA/Ua5I/iSLHJ0kMU0yq0JrP//tT5BLznQJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\CatalogService\\CatalogService.csproj",
+  "projectFilePath": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\CatalogService\\CatalogService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AASHISH\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\AASHISH\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",

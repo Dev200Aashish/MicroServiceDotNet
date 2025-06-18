@@ -39,3 +39,23 @@ C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\ProductService\obj\Debu
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\ProductService\obj\Debug\netcoreapp3.1\ProductService.dll
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\ProductService\obj\Debug\netcoreapp3.1\ProductService.pdb
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\ProductService\obj\Debug\netcoreapp3.1\ProductService.genruntimeconfig.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.StaticWebAssets.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.exe
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.deps.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.runtimeconfig.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.runtimeconfig.dev.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.AssemblyReference.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfoInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfo.cs
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.CoreCompileInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.MvcApplicationPartsAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\staticwebassets\ProductService.StaticWebAssets.Manifest.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.RazorTargetAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.genruntimeconfig.cache

@@ -32,3 +32,36 @@ D:\Code\MS\DotNetMicroService\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
 D:\Code\MS\DotNetMicroService\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
 D:\Code\MS\DotNetMicroService\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
 D:\Code\MS\DotNetMicroService\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.StaticWebAssets.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.Views.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache

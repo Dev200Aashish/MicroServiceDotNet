@@ -49,3 +49,28 @@ C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\CatalogService\obj\Debu
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.dll
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.pdb
 C:\Users\AASHISH\Downloads\Compressed\DotNetMicroService\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.genruntimeconfig.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.StaticWebAssets.xml
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.exe
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.deps.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.runtimeconfig.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.runtimeconfig.dev.json
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\CatalogService.Views.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.csproj.AssemblyReference.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.AssemblyInfoInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.AssemblyInfo.cs
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.csproj.CoreCompileInputs.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.MvcApplicationPartsAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\staticwebassets\CatalogService.StaticWebAssets.Manifest.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.RazorTargetAssemblyInfo.cache
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.csproj.CopyComplete
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.dll
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.pdb
+D:\Code & Docs\New folder (2)\MicroServiceDotNet\CatalogService\obj\Debug\netcoreapp3.1\CatalogService.genruntimeconfig.cache

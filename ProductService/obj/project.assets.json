@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\ProductService\\ProductService.csproj",
+      "projectUniqueName": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\ProductService\\ProductService.csproj",
       "projectName": "ProductService",
-      "projectPath": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\ProductService\\ProductService.csproj",
+      "projectPath": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\ProductService\\ProductService.csproj",
       "packagesPath": "C:\\Users\\AASHISH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AASHISH\\Downloads\\Compressed\\DotNetMicroService\\ProductService\\obj\\",
+      "outputPath": "D:\\Code & Docs\\New folder (2)\\MicroServiceDotNet\\ProductService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AASHISH\\AppData\\Roaming\\NuGet\\NuGet.Config",
