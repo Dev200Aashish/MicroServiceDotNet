@@ -25,6 +25,7 @@ namespace CatalogService.Controllers
 
             {
                 // this comment will recoverd from patch
+                // new change from feature.
                 _irabitMQProducer.SendProductMessage(_icatalogService.FindAll());
                 return Ok(_icatalogService.FindAll());
             }
