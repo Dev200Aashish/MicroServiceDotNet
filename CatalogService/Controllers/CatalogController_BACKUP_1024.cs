@@ -1,5 +1,9 @@
 ﻿using CatalogService.Services;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace CatalogService.Controllers
 {
@@ -20,11 +24,14 @@ namespace CatalogService.Controllers
             try
 
             {
+<<<<<<< HEAD
+                // this comment will recoverd from patch
+                // new change from feature.
+=======
                 //This comment is added from master branch
                 // New commit from master
                 // this is for feature branch
-                // this comment will recoverd from patch
-                // new change from feature.
+>>>>>>> origin/main
                 _irabitMQProducer.SendProductMessage(_icatalogService.FindAll());
                 return Ok(_icatalogService.FindAll());
             }
