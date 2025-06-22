@@ -23,7 +23,7 @@ namespace CatalogService.Controllers
             try
             {
                 // This branch is used to test code
-                // This comment from other dev team
+                // this is from master
                 return Ok(_iProductService.FindAll());
             }
             catch
