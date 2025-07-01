@@ -52,7 +52,6 @@ D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
-D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs

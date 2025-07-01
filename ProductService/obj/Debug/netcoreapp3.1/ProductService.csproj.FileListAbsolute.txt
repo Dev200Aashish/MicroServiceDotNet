@@ -48,7 +48,6 @@ D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcor
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.runtimeconfig.dev.json
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.dll
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\bin\Debug\netcoreapp3.1\ProductService.pdb
-D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.AssemblyReference.cache
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.GeneratedMSBuildEditorConfig.editorconfig
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfoInputs.cache
 D:\Code & Docs\New folder (2)\MicroServiceDotNet\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfo.cs
